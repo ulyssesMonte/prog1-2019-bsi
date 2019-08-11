@@ -1,0 +1,41 @@
+Olá aluno de Programação 1
+
+1) Faça um resumo para explicar/definir com suas próprias palavras os seguintes conceitos:
+
+- Algoritmo
+
+- Linguagem de programação
+
+- Tradutor (no contexto de computação)
+
+- Interpretador (no contexto de computação)
+
+Material de apoio pode ser encontrado em Introdução à Computação - Gilberto Farias e Eduardo Santana Medeiros  https://books.google.com.br/books/about/Introdu%C3%A7%C3%A3o_a_Computa%C3%A7%C3%A3o.html?id=rt2FBwAAQBAJ&redir_esc=y
+
+2) Apresente as 3 representações de um algoritmo (Diagrama de blocos, Diagrama de Chapin, Texto do Algoritmo) e as 4 representações de um programa (na linguagem Python, na linguagem C, na linguagem Pascal, na linguagem Java) para solucionar o seguinte problema:
+
+- Leia um número inteiro e imprima uma mensagem com o texto:
+
+PAR, se o número lido for divisível por 2
+
+IMPAR, se o número lido não for divisível por 2
+
+Formato de apresentação deste trabalho:
+
+- Individual e devidamente identificado com: curso, número de matrícula e nome completo.
+
+- O todo o texto e diagramas deverão ser manuscritos com letra legível em papel pautado. A notação para a escrita dos diagramas e dos algoritmos deverá ser a mesma apresentada no livro:
+
+FARRER, Harry et al. Algoritmos estruturados Utilize, para consulta e auxílio na escrita dos programas, livros das linguagens de programação (C, Pascal, Python e Java).
+
+MANZANO, José Augusto N. G; YAMATUMI, Wilson Y. Estudo dirigido [de] Turbo Pascal.
+
+ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de. Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e Java
+
+MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação para iniciantes
+
+ASCENCIO, Ana Fernanda Gomes. Lógica de programação com Pascal
+
+FARRER, Harry et al. Pascal estruturado
+
+MIZRAHI, Victorine Viviane. Treinamento em linguagem C
