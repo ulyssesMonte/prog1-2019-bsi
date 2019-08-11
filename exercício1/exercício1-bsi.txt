@@ -1,0 +1,7 @@
+Algorítmo é uma sequencia de passos finita e não ambígua com a finalidade de resolver um problema
+
+linguagem de programação é uma ferramenta que faz uma ponte entre alinguagem humana e a linguagem de máquina que funciona por meio de um conjunto de regras semânticas e sintáticas.
+
+tradutor/compilador é um programa que converte ou traduz um código fonte para um código objeto, isto é, algo escrito por um humano para algo que a máquina pode compreender.
+
+interpretador é uma aplicação que executa um programa a partir do código fonte, ou em alguns casos traduz para uma representação intermediária de maneira eficiente.
