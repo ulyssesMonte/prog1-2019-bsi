@@ -1,5 +1,5 @@
-x=int(input("digite um número "))
+x=int(input("digite um nÃºmero "))
 if ((x mod 2) == 0):
   print("PAR")
-  else:
-    print("IMPAR")
+else:
+  print("IMPAR")
